@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pxoor.github.io/Qad/sitemap.Qad.gz
